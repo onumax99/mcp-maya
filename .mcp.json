@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "maya": {
+      "command": "uv",
+      "args": ["run", "mcp-maya"]
+    }
+  }
+}
